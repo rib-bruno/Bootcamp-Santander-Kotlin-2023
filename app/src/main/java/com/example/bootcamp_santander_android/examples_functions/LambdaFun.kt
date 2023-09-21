@@ -1,4 +1,4 @@
-package com.example.bootcamp_santander_android
+package com.example.bootcamp_santander_android.examples_functions
 
 
 val upperCase1: (String) -> String = {str:  String -> str.uppercase()} //tipando em ambos os casos

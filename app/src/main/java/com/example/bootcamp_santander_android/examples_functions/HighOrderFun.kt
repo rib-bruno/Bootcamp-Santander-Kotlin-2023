@@ -1,4 +1,4 @@
-package com.example.bootcamp_santander_android
+package com.example.bootcamp_santander_android.examples_functions
 
 //High Order Function - passar uma outra função como parâmetro
 fun calculate (x: Int, y: Int, operation: (Int, Int) -> Int) : Int{
