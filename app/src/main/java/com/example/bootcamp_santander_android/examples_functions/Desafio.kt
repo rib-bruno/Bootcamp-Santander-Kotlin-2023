@@ -37,6 +37,4 @@ fun main() {
     println("Inscritos na formação ${formacao.nome}: ${formacao.inscritos.map { it.nome }}. Nível: ${Nivel.INTERMEDIARIO}. Conteúdos abordados: ${formacao.conteudos.map { it.nome}}.")
 
 
-
-
 }
