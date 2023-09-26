@@ -1,4 +1,4 @@
-package com.example.bootcamp_santander_android.examples_functions
+package com.example.bootcamp_santander_android.desafios
 
 enum class Nivel { BASICO, INTERMEDIARIO, DIFICIL }
 
